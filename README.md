@@ -10,7 +10,6 @@
 | **Team Name:**    | [Your Team Name]                          |
 | **Team Members:** | [Name 1] · [Name 2] · [Name 3] · [Name 4] |
 | **Institution:**  | [College / University]                    |
-| **State:**        | 🟢 In Development / ✅ Submitted          |
 | **Live Demo:**    | [Demo link goes here]                     |
 | **Pitch Video:**  | [Social media pitch video link]           |
 | **Repo:**         | [Public GitHub URL]                       |
@@ -76,10 +75,10 @@ different from existing approaches.]
 
 ## 3. Key Features
 
-- **🎯 Feature 1** — [what it does]
-- **⚡ Feature 2** — [what it does]
-- **🛠 Feature 3** — [what it does]
-- **📊 Feature 4** — [what it does]
+- **Feature 1** — [what it does]
+- **Feature 2** — [what it does]
+- **Feature 3** — [what it does]
+- **Feature 4** — [what it does]
 
 _Timeline of build:_ Built end-to-end during the 36-hour DSOLVE 2026 window
 (17th Sept, 6:00 PM → 19th Sept, 6:00 AM).
@@ -194,7 +193,7 @@ cd frontend
 | `DATABASE_URL` | Database connection string        | `your-database-connection-string` |
 | `PORT`         | Port the backend listens on       | `8000`                            |
 
-> ⚠️ Values above are illustrative examples — replace them with your own. Never
+> Values above are illustrative examples — replace them with your own. Never
 > commit real keys: use a `.env` file (already gitignored) or `.env.example`.
 
 ---

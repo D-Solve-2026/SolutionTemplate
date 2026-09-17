@@ -7,7 +7,6 @@ PWA, etc.
 
 - Framework / platform: [your choice]
 - Styling: [your choice]
-- State management: [your choice]
 - HTTP client: [your choice]
 
 ## Local Setup (fill in)

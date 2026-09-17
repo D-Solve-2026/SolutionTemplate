@@ -6,7 +6,7 @@ update it as you go — judges will look at your README, code quality, and repo 
 
 ---
 
-## 📦 Repository — REQUIRED
+## Repository — REQUIRED
 
 - [ ] Public GitHub repository created by forking the official template
 - [ ] Team members added as collaborators on the repo
@@ -16,14 +16,14 @@ update it as you go — judges will look at your README, code quality, and repo 
 - [ ] Clean, working code committed throughout the 36 hours (not just at the end)
 - [ ] License file present (MIT template included)
 
-## 🚀 Runnable Prototype
+## Runnable Prototype
 
 - [ ] Solution runs locally (or live) from a *fresh* clone with the documented commands
 - [ ] All setup steps documented in README §8 (Getting Started)
 - [ ] Environment variables documented via `.env.example` (no real values)
 - [ ] At least one working end-to-end flow demonstrated (UI → API → result)
 
-## 🧠 Code Quality
+## Code Quality
 
 - [ ] Clear folder structure (`backend/`, `frontend/`, `docs/`, `assets/`)
 - [ ] Readable, commented code; consistent naming
@@ -31,7 +31,7 @@ update it as you go — judges will look at your README, code quality, and repo 
 - [ ] Linter/type-checks pass (if configured)
 - [ ] Basic tests pass (if applicable) — preferably automated
 
-## 🎥 Pitch Video — REQUIRED
+## Pitch Video — REQUIRED
 
 - [ ] >30 seconds, short-form, in English
 - [ ] Clearly states the core problem + your solution
@@ -41,7 +41,7 @@ update it as you go — judges will look at your README, code quality, and repo 
 - [ ] Posted **before 6:00 AM on Sept 19th**
 - [ ] Link added to README header
 
-## 📊 Final Presentation (Sat, Sept 19th)
+## Final Presentation (Sat, Sept 19th)
 
 - [ ] Pitch deck prepared (see `docs/pitch-deck-outline.md`)
 - [ ] 3–5 min live demo prepared & rehearsed
@@ -51,7 +51,7 @@ update it as you go — judges will look at your README, code quality, and repo 
   - [ ] Why the chosen tech stack
   - [ ] Trade-offs made during the 36 hours
 
-## 🕐 Key Deadlines — Reference
+## Key Deadlines — Reference
 
 | When | What |
 |------|------|
