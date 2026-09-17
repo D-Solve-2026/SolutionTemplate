@@ -23,10 +23,13 @@ cd backend
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `DATABASE_URL` | ... | ... |
-| `API_KEY` | ... | ... |
+| `DATABASE_URL` | Database connection string | `your-database-connection-string` |
+| `API_KEY` | Third-party service API key | `sk-xxxxxxxxxxxxxxxxxx` |
+| `PORT` | Port the backend listens on | `8000` |
 
-> Never commit real `.env` values — see root `.gitignore`.
+> Values above are illustrative examples only — replace them with your own.
+> Never commit real `.env` values — see root `.gitignore`. A starting point is
+> provided in `.env.example`.
 
 ## Tests
 

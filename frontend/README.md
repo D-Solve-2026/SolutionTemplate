@@ -22,7 +22,11 @@ cd frontend
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `[VAR]` | [what it is, e.g. backend URL] | [example value] |
+| `BACKEND_URL` | Backend API base URL | `http://localhost:8000` |
+
+> Values above are illustrative examples only — replace them with your own.
+> Never commit real `.env` values — see root `.gitignore`. A starting point is
+> provided in `.env.example`.
 
 ## Tests & Lint
 
@@ -42,5 +46,6 @@ frontend/
 ├── <components/>       # reusable UI
 ├── <pages/>            # route views
 ├── <services/>         # API calls
-└── <config files for your tooling>
+├── <config files for your tooling>
+└── .env.example
 ```

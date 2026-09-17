@@ -190,11 +190,12 @@ cd frontend
 
 | Variable       | Description                | Example              |
 | -------------- | -------------------------- | -------------------- |
-| `API_KEY`      | [what it is]               | [example value]      |
-| `DATABASE_URL` | [what it is]               | [example value]      |
-| `PORT`         | [what it is]               | [example value]      |
+| `API_KEY`      | API key for a third-party service          | `sk-xxxxxxxxxxxxxxxxxx`            |
+| `DATABASE_URL` | Database connection string                 | `your-database-connection-string`  |
+| `PORT`         | Port the backend listens on                | `8000`                             |
 
-> ⚠️ Never commit real keys. Use a `.env` file (already gitignored) or `.env.example`.
+> ⚠️ Values above are illustrative examples — replace them with your own. Never
+> commit real keys: use a `.env` file (already gitignored) or `.env.example`.
 
 ---
 
