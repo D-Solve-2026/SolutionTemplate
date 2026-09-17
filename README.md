@@ -26,10 +26,9 @@
 6. [Folder Structure](#6-folder-structure)
 7. [Getting Started](#7-getting-started)
 8. [Usage / Demo Script](#8-usage--demo-script)
-9. [Testing](#9-testing)
-10. [Limitations & Future Scope](#10-limitations--future-scope)
-11. [Team](#11-team)
-12. [Submission Checklist](#12-submission-checklist)
+9. [Limitations & Future Scope](#10-limitations--future-scope)
+10. [Team](#11-team)
+11. [Submission Checklist](#12-submission-checklist)
 
 ---
 
@@ -197,22 +196,7 @@ _This doubles as your live demo runbook (3–5 min)._
 
 ---
 
-## 9. Testing
-
-```bash
-# Replace <command> with the test/lint command for YOUR stack
-# Backend
-cd backend && <your test command>
-
-# Frontend
-cd frontend && <your test command> && <your lint command>
-```
-
-[Describe what test coverage exists and how to run linters/type checks.]
-
----
-
-## 10. Limitations & Future Scope
+## 9. Limitations & Future Scope
 
 ### Known Limitations
 
@@ -226,7 +210,7 @@ cd frontend && <your test command> && <your lint command>
 
 ---
 
-## 11. Team
+## 10. Team
 
 | Name     | Role(s)                         | GitHub    | Email   |
 | -------- | ------------------------------- | --------- | ------- |
@@ -235,7 +219,7 @@ cd frontend && <your test command> && <your lint command>
 
 ---
 
-## 12. Submission Checklist
+## 11. Submission Checklist
 
 **Before 6:00 AM (Code Freeze) – Sat, Sept 19th:**
 
