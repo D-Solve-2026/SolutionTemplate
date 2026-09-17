@@ -12,7 +12,6 @@
 | **Institution:**  | [College / University]                    |
 | **Live Demo:**    | [Demo link goes here]                     |
 | **Pitch Video:**  | [Social media pitch video link]           |
-| **Repo:**         | [Public GitHub URL]                       |
 
 ---
 
@@ -32,7 +31,7 @@
 
 ---
 
-> **READ THIS FIRST:** This repository is an **optional demo/example template**.
+> **READ THIS FIRST:** This repository is a **starting demo/example template**.
 > There is **no need to follow it** — your team can use any tech stack, any
 > architecture, and any project structure you like. If you choose to use it,
 > replace every `[placeholder]` with your own content, then delete this note and
