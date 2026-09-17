@@ -1,4 +1,4 @@
-# 🦷 [Project Name]
+# [Project Name]
 
 ### **DSOLVE 2026** · DRISHTI · College of Engineering Trivandrum (CET)
 
@@ -100,13 +100,13 @@ _Timeline of build:_ Built end-to-end during the 36-hour DSOLVE 2026 window
 
 ## 5. Tech Stack
 
-| Layer            | Technology                              | Why we chose it |
-| ---------------- | --------------------------------------- | --------------- |
-| Frontend         | [your frontend framework/platform]      | [reason]        |
-| Backend          | [your backend framework/platform]       | [reason]        |
-| Database         | [your database]                         | [reason]        |
-| ML / AI          | [your AI/ML tools/models]               | [reason]        |
-| Infra / Hosting  | [where your solution runs]              | [reason]        |
+| Layer           | Technology                         | Why we chose it |
+| --------------- | ---------------------------------- | --------------- |
+| Frontend        | [your frontend framework/platform] | [reason]        |
+| Backend         | [your backend framework/platform]  | [reason]        |
+| Database        | [your database]                    | [reason]        |
+| ML / AI         | [your AI/ML tools/models]          | [reason]        |
+| Infra / Hosting | [where your solution runs]         | [reason]        |
 
 > Fill values in the column **"Technology"** only — no language or framework is
 > prescribed; your team chose what fits the problem best.
@@ -188,11 +188,11 @@ cd frontend
 
 ### Environment Variables
 
-| Variable       | Description                | Example              |
-| -------------- | -------------------------- | -------------------- |
-| `API_KEY`      | API key for a third-party service          | `sk-xxxxxxxxxxxxxxxxxx`            |
-| `DATABASE_URL` | Database connection string                 | `your-database-connection-string`  |
-| `PORT`         | Port the backend listens on                | `8000`                             |
+| Variable       | Description                       | Example                           |
+| -------------- | --------------------------------- | --------------------------------- |
+| `API_KEY`      | API key for a third-party service | `sk-xxxxxxxxxxxxxxxxxx`           |
+| `DATABASE_URL` | Database connection string        | `your-database-connection-string` |
+| `PORT`         | Port the backend listens on       | `8000`                            |
 
 > ⚠️ Values above are illustrative examples — replace them with your own. Never
 > commit real keys: use a `.env` file (already gitignored) or `.env.example`.
@@ -265,4 +265,3 @@ cd frontend && <your test command> && <your lint command>
 **[Problem Statements](./docs/problem-statements.md)** ·
 **[Submission Checklist](./SUBMISSION_CHECKLIST.md)** ·
 **DSOLVE 2026 Guidelines**
-
