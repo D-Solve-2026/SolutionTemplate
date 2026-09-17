@@ -17,29 +17,24 @@
 
 ## Table of Contents
 
-1. [Problem Statement](#1-problem-statement)
-2. [Our Solution](#2-our-solution)
-3. [Key Features](#3-key-features)
-4. [Screenshots & Demo](#4-screenshots--demo)
-5. [Tech Stack](#5-tech-stack)
-6. [Folder Structure](#6-folder-structure)
-7. [Getting Started](#7-getting-started)
-8. [Usage / Demo Script](#8-usage--demo-script)
-9. [Limitations & Future Scope](#10-limitations--future-scope)
-10. [Team](#11-team)
-11. [Submission Checklist](#12-submission-checklist)
+- [Problem Statement](#problem-statement)
+- [Our Solution](#our-solution)
+- [Key Features](#key-features)
+- [Screenshots & Demo](#screenshots--demo)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Usage / Demo Script](#usage--demo-script)
+- [Limitations & Future Scope](#limitations--future-scope)
+- [Team](#team)
+- [Submission Checklist](#submission-checklist)
 
 ---
 
-> **READ THIS FIRST:** This repository is a **starting demo/example template**.
-> There is **no need to follow it** — your team can use any tech stack, any
-> architecture, and any project structure you like. If you choose to use it,
-> replace every `[placeholder]` with your own content, then delete this note and
-> the placeholders in [Section 12](#12-submission-checklist) as you complete them.
+> **READ THIS FIRST:** This repository is a **starting template**.
 
 ---
 
-## 1. Problem Statement
+## Problem Statement
 
 > _Copy the official problem statement you chose (from `docs/problem-statements.md`)._
 >
@@ -49,44 +44,27 @@
 
 ### Why this matters
 
-[Short paragraph: the real-world impact, who is affected, cost of the status quo.]
+[Short paragraph: the real-world impact, who is affected, etc.]
 
 ---
 
-## 2. Our Solution
+## Our Solution
 
-[Describe in 3–5 bullets what you built, how it solves the problem, and what makes it
+[Describe what you built, how it solves the problem, and what makes it
 different from existing approaches.]
 
-- **[Differentiator 1]** — [one-line explanation]
-- **[Differentiator 2]** — [one-line explanation]
-- **[Differentiator 3]** — [one-line explanation]
-
-### Target Users
-
-| User                         | Pain Point | What We Give Them |
-| ---------------------------- | ---------- | ----------------- |
-| [e.g. Dental practice owner] | [pain]     | [solution]        |
-| [e.g. Patient]               | [pain]     | [solution]        |
-| [e.g. Clinical team]         | [pain]     | [solution]        |
-
 ---
 
-## 3. Key Features
+## Key Features
 
 - **Feature 1** — [what it does]
 - **Feature 2** — [what it does]
 - **Feature 3** — [what it does]
 - **Feature 4** — [what it does]
 
-_Timeline of build:_ Built end-to-end during the 36-hour DSOLVE 2026 window
-(17th Sept, 6:00 PM → 19th Sept, 6:00 AM).
-
 ---
 
-## 4. Screenshots & Demo
-
-<!-- Add screenshots under /assets/screenshots and demo GIFs under /assets/demo -->
+## Screenshots & Demo
 
 | Screenshot                                            | Description                          |
 | ----------------------------------------------------- | ------------------------------------ |
@@ -96,7 +74,7 @@ _Timeline of build:_ Built end-to-end during the 36-hour DSOLVE 2026 window
 
 ---
 
-## 5. Tech Stack
+## Tech Stack
 
 | Layer           | Technology                         | Why we chose it |
 | --------------- | ---------------------------------- | --------------- |
@@ -106,41 +84,13 @@ _Timeline of build:_ Built end-to-end during the 36-hour DSOLVE 2026 window
 | ML / AI         | [your AI/ML tools/models]          | [reason]        |
 | Infra / Hosting | [where your solution runs]         | [reason]        |
 
-> Fill values in the column **"Technology"** only — no language, framework,
-> architecture, or project structure is prescribed; use whatever works best for
-> your team.
-
-_All libraries and AI models/frameworks used are open-source or publicly available,
-as permitted by the DSOLVE 2026 rules._
+> **Only a sample** — fill in the **"Technology"** column with your own choices.
+> No language, framework, architecture, or project structure is prescribed; use
+> whatever works best for your team.
 
 ---
 
-## 6. Folder Structure
-
-```
-.
-├── backend/            # Server, API, microservices, ML services
-│   └── README.md
-├── frontend/           # Web / mobile application
-│   └── README.md
-├── docs/               # Pitch deck outline, problem statements
-│   ├── pitch-deck-outline.md
-│   └── problem-statements.md
-├── assets/             # Screenshots, demo recordings, pitch video
-│   ├── screenshots/
-│   ├── demo/
-│   └── pitch/
-├── AGENTS.md           # AI-assistant instructions (optional)
-├── SUBMISSION_CHECKLIST.md
-└── README.md
-```
-
-> The layout above is **only an example** — you are free to use any project
-> structure that suits your solution.
-
----
-
-## 7. Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -149,26 +99,7 @@ as permitted by the DSOLVE 2026 rules._
 
 ### Installation
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
-
-# 2. Backend — replace the <commands> below with the ones for YOUR stack
-#    (see backend/README.md for your team's exact commands)
-cd backend
-<install backend dependencies your package manager uses>
-<copy and edit your environment file, e.g. .env.example -> .env>
-<start the backend server>
-```
-
-```bash
-# 3. Frontend — replace the <commands> below with the ones for YOUR stack
-#    (see frontend/README.md for your team's exact commands)
-cd frontend
-<install frontend dependencies with your package manager>
-<start the frontend app>
-```
+> Explain how to run this project
 
 ### Environment Variables
 
@@ -183,7 +114,7 @@ cd frontend
 
 ---
 
-## 8. Usage / Demo Script
+## Usage / Demo Script
 
 _This doubles as your live demo runbook (3–5 min)._
 
@@ -195,7 +126,7 @@ _This doubles as your live demo runbook (3–5 min)._
 
 ---
 
-## 9. Limitations & Future Scope
+## Limitations & Future Scope
 
 ### Known Limitations
 
@@ -209,7 +140,7 @@ _This doubles as your live demo runbook (3–5 min)._
 
 ---
 
-## 10. Team
+## Team
 
 | Name     | Role(s)                         | GitHub    | Email   |
 | -------- | ------------------------------- | --------- | ------- |
@@ -218,7 +149,7 @@ _This doubles as your live demo runbook (3–5 min)._
 
 ---
 
-## 11. Submission Checklist
+## Submission Checklist
 
 **Before 6:00 AM (Code Freeze) – Sat, Sept 19th:**
 

@@ -4,8 +4,8 @@ Place project media here. At submission time you must have:
 
 | Folder | Contents | Summary |
 |--------|----------|---------|
-| `screenshots/` | UI screenshots of your working prototype | Add to README §4 |
-| `demo/` | Short screen-recordings / GIFs of key flows | Add to README §4 |
+| `screenshots/` | UI screenshots of your working prototype | Add to README → Screenshots & Demo |
+| `demo/` | Short screen-recordings / GIFs of key flows | Add to README → Screenshots & Demo |
 | `pitch/` | Your >30s social pitch video + link/thesis | Link in README header |
 
 ## Pitch Video Requirements (DSOLVE 2026)
@@ -20,6 +20,6 @@ Place project media here. At submission time you must have:
 ## File naming
 
 Keep it descriptive: `home-dashboard.png`, `insurance-check-result.mp4`,
-`pitch-final.mp4`. Add a short caption for each screenshot in README §4.
+`pitch-final.mp4`. Add a short caption for each screenshot in README → Screenshots & Demo.
 
 > Tip: Compress large videos/images before committing to keep the repo cloneable.

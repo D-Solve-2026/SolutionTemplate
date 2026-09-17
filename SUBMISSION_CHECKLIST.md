@@ -24,7 +24,7 @@ update it as you go — judges will look at your README, code quality, and repo 
 ## Runnable Prototype
 
 - [ ] Solution runs locally (or live) from a *fresh* clone with the documented commands
-- [ ] All setup steps documented in README §7 (Getting Started)
+- [ ] All setup steps documented in README → Getting Started
 - [ ] Environment variables documented via `.env.example` (no real values)
 - [ ] At least one working end-to-end flow demonstrated (UI → API → result)
 

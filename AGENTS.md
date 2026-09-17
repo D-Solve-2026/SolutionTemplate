@@ -30,7 +30,7 @@ code that is clean, explainable, and judge-friendly.
    don't dump everything in one giant commit.
 4. **Stack freedom.** Teams choose their own stack. Match the stack the team has
    chosen — check `backend/` and `frontend/` READMEs before generating code.
-5. **Documentation first.** `README.md` §7 (Getting Started) must be accurate and
+5. **Documentation first.** `README.md` → Getting Started must be accurate and
    reproducible from a fresh clone.
 
 ## What to do when a participant asks you to write code
@@ -49,7 +49,7 @@ code that is clean, explainable, and judge-friendly.
 Commands are **not** listed here because each team picks its own stack. Once the
 stack is chosen, document the real commands (install, run, test, lint, build) in
 `backend/README.md` and `frontend/README.md`, and make sure the steps in
-`README.md` §7 (Getting Started) can be run from a fresh clone. Before running any
+`README.md` → Getting Started can be run from a fresh clone. Before running any
 test/lint/build command during development, confirm it actually exists for the
 team's chosen stack.
 
