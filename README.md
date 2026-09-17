@@ -23,20 +23,21 @@
 3. [Key Features](#3-key-features)
 4. [Screenshots & Demo](#4-screenshots--demo)
 5. [Tech Stack](#5-tech-stack)
-6. [Architecture](#6-architecture)
-7. [Folder Structure](#7-folder-structure)
-8. [Getting Started](#8-getting-started)
-9. [Usage / Demo Script](#9-usage--demo-script)
-10. [Testing](#10-testing)
-11. [Limitations & Future Scope](#11-limitations--future-scope)
-12. [Team](#12-team)
-13. [Submission Checklist](#13-submission-checklist)
+6. [Folder Structure](#6-folder-structure)
+7. [Getting Started](#7-getting-started)
+8. [Usage / Demo Script](#8-usage--demo-script)
+9. [Testing](#9-testing)
+10. [Limitations & Future Scope](#10-limitations--future-scope)
+11. [Team](#11-team)
+12. [Submission Checklist](#12-submission-checklist)
 
 ---
 
-> **🙋 READ THIS FIRST:** This is a fork of the official DSOLVE 2026 solution template.
-> Replace every placeholder beginning with `[` with your own content, then delete
-> this note and the placeholders in [Section 13](#13-submission-checklist) as you complete them.
+> **READ THIS FIRST:** This repository is an **optional demo/example template**.
+> There is **no need to follow it** — your team can use any tech stack, any
+> architecture, and any project structure you like. If you choose to use it,
+> replace every `[placeholder]` with your own content, then delete this note and
+> the placeholders in [Section 12](#12-submission-checklist) as you complete them.
 
 ---
 
@@ -107,32 +108,16 @@ _Timeline of build:_ Built end-to-end during the 36-hour DSOLVE 2026 window
 | ML / AI         | [your AI/ML tools/models]          | [reason]        |
 | Infra / Hosting | [where your solution runs]         | [reason]        |
 
-> Fill values in the column **"Technology"** only — no language or framework is
-> prescribed; your team chose what fits the problem best.
+> Fill values in the column **"Technology"** only — no language, framework,
+> architecture, or project structure is prescribed; use whatever works best for
+> your team.
 
 _All libraries and AI models/frameworks used are open-source or publicly available,
 as permitted by the DSOLVE 2026 rules._
 
 ---
 
-## 6. Architecture
-
-<!-- Replace with your own diagram (Mermaid or image in /assets/architecture.png) -->
-
-```mermaid
-graph LR
-    A[Client / Frontend] --> B[API Server]
-    B --> C[(Database)]
-    B --> D[AI / ML Service]
-    D --> B
-    B --> E[Third-party APIs]
-```
-
-[Paragraph on how the pieces interact, where the intelligence lives, and how data flows.]
-
----
-
-## 7. Folder Structure
+## 6. Folder Structure
 
 ```
 .
@@ -140,8 +125,7 @@ graph LR
 │   └── README.md
 ├── frontend/           # Web / mobile application
 │   └── README.md
-├── docs/               # Architecture, pitch deck outline, problem statements
-│   ├── architecture.md
+├── docs/               # Pitch deck outline, problem statements
 │   ├── pitch-deck-outline.md
 │   └── problem-statements.md
 ├── assets/             # Screenshots, demo recordings, pitch video
@@ -153,9 +137,12 @@ graph LR
 └── README.md
 ```
 
+> The layout above is **only an example** — you are free to use any project
+> structure that suits your solution.
+
 ---
 
-## 8. Getting Started
+## 7. Getting Started
 
 ### Prerequisites
 
@@ -198,7 +185,7 @@ cd frontend
 
 ---
 
-## 9. Usage / Demo Script
+## 8. Usage / Demo Script
 
 _This doubles as your live demo runbook (3–5 min)._
 
@@ -210,7 +197,7 @@ _This doubles as your live demo runbook (3–5 min)._
 
 ---
 
-## 10. Testing
+## 9. Testing
 
 ```bash
 # Replace <command> with the test/lint command for YOUR stack
@@ -225,7 +212,7 @@ cd frontend && <your test command> && <your lint command>
 
 ---
 
-## 11. Limitations & Future Scope
+## 10. Limitations & Future Scope
 
 ### Known Limitations
 
@@ -239,7 +226,7 @@ cd frontend && <your test command> && <your lint command>
 
 ---
 
-## 12. Team
+## 11. Team
 
 | Name     | Role(s)                         | GitHub    | Email   |
 | -------- | ------------------------------- | --------- | ------- |
@@ -248,7 +235,7 @@ cd frontend && <your test command> && <your lint command>
 
 ---
 
-## 13. Submission Checklist
+## 12. Submission Checklist
 
 **Before 6:00 AM (Code Freeze) – Sat, Sept 19th:**
 

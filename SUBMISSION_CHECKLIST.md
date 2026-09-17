@@ -1,5 +1,10 @@
 # DSOLVE 2026 — Submission Checklist
 
+> This repo is an **optional demo/example template** — there is no requirement to
+> follow it. Your team may use any stack, any architecture, and any project
+> structure you like. This checklist captures the submission requirements from
+> the official DSOLVE 2026 guidelines.
+
 Use this checklist to track your team's readiness. Tick off each item before
 **Code Freeze (Sat, Sept 19th, 6:00 AM)**. Keep this file in your repo and
 update it as you go — judges will look at your README, code quality, and repo hygiene.
@@ -19,13 +24,13 @@ update it as you go — judges will look at your README, code quality, and repo 
 ## Runnable Prototype
 
 - [ ] Solution runs locally (or live) from a *fresh* clone with the documented commands
-- [ ] All setup steps documented in README §8 (Getting Started)
+- [ ] All setup steps documented in README §7 (Getting Started)
 - [ ] Environment variables documented via `.env.example` (no real values)
 - [ ] At least one working end-to-end flow demonstrated (UI → API → result)
 
 ## Code Quality
 
-- [ ] Clear folder structure (`backend/`, `frontend/`, `docs/`, `assets/`)
+- [ ] Clear, readable project structure (any layout you prefer)
 - [ ] Readable, commented code; consistent naming
 - [ ] No dead code, debug `console.log`s, or unused imports left behind
 - [ ] Linter/type-checks pass (if configured)
@@ -46,7 +51,7 @@ update it as you go — judges will look at your README, code quality, and repo 
 - [ ] Pitch deck prepared (see `docs/pitch-deck-outline.md`)
 - [ ] 3–5 min live demo prepared & rehearsed
 - [ ] Ready for 5–10 min technical Q&A — each member can explain:
-  - [ ] Architecture decisions
+  - [ ] Stack / design decisions
   - [ ] Every line of critical AI/model code
   - [ ] Why the chosen tech stack
   - [ ] Trade-offs made during the 36 hours
@@ -70,5 +75,5 @@ update it as you go — judges will look at your README, code quality, and repo 
 - 2–4 members, **same institution only** — inter-college teams are disqualified.
 - Core code must be built in the 36-hour window. Pre-built projects = disqualification.
 - AI tools are allowed as aids, but you must be able to explain & defend every
-  piece of your code and architecture.
+  piece of your code and design.
 - Judges' rulings are final.

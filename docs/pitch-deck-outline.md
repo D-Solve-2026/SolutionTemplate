@@ -50,7 +50,7 @@ enforced — this outline is a safe starting point. Total runtime ≈ 4 minutes.
 
 Have every team member ready to answer:
 
-1. Why did you pick this stack / architecture?
+1. Why did you pick this stack / design?
 2. How does [the AI/model/algorithm] actually work?
 3. What fails, and how do you handle it?
 4. How does this differ from existing products (e.g. on G2/Capterra)?
